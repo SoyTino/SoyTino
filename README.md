@@ -1,4 +1,4 @@
-### Hey, IM Tino👋 Junior Full-Stack Web Developer. 💻
+### Hey, Im Tino 👋 Junior Full-Stack Web Developer. 💻
 
 <!--
 **SoyTino/SoyTino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
